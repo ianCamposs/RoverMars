@@ -15,3 +15,5 @@ Api to resolve Mars Exploration using rovers
 1. npm install
 2. npm knex:migrate (run migrations to build plateau and rover tables on SQLite DB.)
 3. npm run dev (run API)
+4. send request to API
+5. connect to SQLite
