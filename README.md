@@ -2,8 +2,8 @@
 Api to resolve Mars Exploration using rovers
 
 #Use cases:
-1. Full Move Rover: create plateau to be explored by rover, create and deploy rover on plateau and move following instructions inputed.
-2. Move rover(new): select rover by Id and move using instructions inputed.
+1. Full Move Rover: create plateau to be explored by rovers, create and deploy rover on plateau and move following instructions inputted.
+2. Move rover(new): select rover by Id and move using instructions inputted.
 3. Deploy Rover(new): create and deploy rover in already created plateau, besides that, move rover.
 4. Get plateau data(new): get plateau and rover data include.
 
